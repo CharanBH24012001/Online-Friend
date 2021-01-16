@@ -1,6 +1,6 @@
 c="Hello-Public Party Kasa Kai"
 print(c)
 print("Nice")
-print("Hello Public Maza Ma")
+print("Hello Public Maza Ma So Batuke So better So Happy")
 list1=[1,2,543,4457]
 print(sort(list1))
